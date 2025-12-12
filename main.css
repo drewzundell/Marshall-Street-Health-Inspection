@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: "Georgia", sans-serif;
+  background-color: #f9f9f9;
+  color: #111;
+}
+
+.banner {
+  padding: 10px 20px;
+  background-color: #F76900;
+  color: #fff;
+  text-align: center;
+}
+
+.story {
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 6px;
+  text-align: justify;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  margin: 0 0 10px 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.story {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+.caption {
+  text-align: center;
+  font-size: 12px;   /* px was missing earlier */
+  margin-top: 5px;
+  color: #444;
+}
+
+img {
+  max-width: 70%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
